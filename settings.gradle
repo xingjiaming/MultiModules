@@ -1,0 +1,2 @@
+include ':app', ':model_a'
+rootProject.name='ModelAll'
